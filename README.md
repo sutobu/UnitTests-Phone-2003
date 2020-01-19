@@ -17,6 +17,6 @@ Tworząc testy rozważ zarówno przypadki poprawnego użycia metod, jak i takie,
 
 Do oceny przesyłasz skompresowane w formacie `zip` _solution_ z odpowiednimi projektami. Ocena za zadanie wynika bezpośrednio ze wskaźnika pokrycia kodem klasy `Phone` oraz uwzględnienia wszystkich przypadków testowych potwierdzających poprawność implementacji.
 
-> Podpowiedź: Jeśli korzystasz z VisualStudio 2019, pokrycie kodu poznasz, wybierając z menu `Test` polecenie `Analyse Code Coverage for All Tests` (1). Następnie, w konsoli `Code Coverage Results`, zobaczysz wyniki liczbowe (2). Klikając na przycisk `Show Code Coverage Coloring` (3) zobaczysz pokolorowana składnię, pokazującą które fragmenty kodu zostały pokryte testami, a które nie (4).
+> Podpowiedź: Jeśli korzystasz z VisualStudio 2019, pokrycie kodu poznasz, wybierając z menu `Test` polecenie `Analze Code Coverage for All Tests` (1). Następnie, w konsoli `Code Coverage Results`, zobaczysz wyniki liczbowe (2). Klikając na przycisk `Show Code Coverage Coloring` (3) zobaczysz pokolorowaną składnię, pokazującą które fragmenty kodu zostały pokryte testami, a które nie (4).
 >
 > ![Code Coverage Results](UnitTestCoveragePhoneClass.png)
