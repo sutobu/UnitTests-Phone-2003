@@ -1,5 +1,3 @@
-﻿// C# 7, .Net Framework 4.7.2
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
